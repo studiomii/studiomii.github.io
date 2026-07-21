@@ -18,9 +18,10 @@ h1{
 
 h2{
 	font-size: 120%;
-	border-bottom: 1px dashed #007a80;
-	border-left: 10px solid #007a80;
+	border-bottom: 1px dashed #5e4646;
+	border-left: 10px solid #5e4646;
 	padding-left: 7px;
+	color: #f02182;
 }
 
 
@@ -69,6 +70,11 @@ header{
     color: #ff047d;
 }
 
+.mizuiro{
+    color: #04b0ff;
+}
+
+
 ul {
 	list-style-type: none;
 	padding-left: 0;
@@ -113,7 +119,7 @@ header img{
 
 .sub-h1 {
 	background: linear-gradient(to left,#ffffff,#007a80);
-	border-left: 15px solid #ffadef4e;
+	border-left: 15px solid #5e4646;
 	padding-top: 5px;
 	padding-left: 10px;
 	color: #ffffff;
@@ -170,11 +176,11 @@ nav ul a:visited{
 }
 
 nav ul a:hover{
-	color: #ffcc00;
+	color: #a8ffae;
 }
 
 nav ul a:active{
-	color: #ff0000;
+	color: #ffcdec;
 }
 
 
